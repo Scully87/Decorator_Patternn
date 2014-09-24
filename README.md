@@ -16,4 +16,4 @@ The pattern was designed so that you can have multiple classes
 point back to the original class, therefore creating unique 
 behaviours for different objects in the original class.
 
-Original class objects can still share similar functions
+Original class objects can still share similar functions.

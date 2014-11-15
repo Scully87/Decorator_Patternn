@@ -1,7 +1,8 @@
 # Decorator Pattern
 -----------------
 
-## A short example of the Decorator Pattern solid principle for a quick presentation for Makers Academy week 2.
+## A short example of the Decorator Pattern principle.
+### This was created for a quick presentation for Makers Academy week 2 sept 14'.
 
 - A design pattern for object oriented programming
 - Objects can be be given behaviours without affecting different objects within the same class.
